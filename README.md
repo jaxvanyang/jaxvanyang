@@ -1,3 +1,7 @@
-[![My GitHub Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jaxvanyang">
+  <img src="./profile/stats.svg" alt="My GitHub Stats" />
+</a>
 
-[![My Top Languages](profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jaxvanyang">
+  <img src="./profile/top-langs.svg" align="right" alt="My Top Languages" />
+</a>
