@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jax Young's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 740, Total PRs: 142, Total Issues: 167, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 754, Total PRs: 143, Total Issues: 176, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.51187241823755;
+        stroke-dashoffset: 62.226488699055935;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >740</text>
+      >754</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >142</text>
+      >143</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >167</text>
+      >176</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >7</text>
+      >8</text>
     </g>
   </g>
     </svg>
